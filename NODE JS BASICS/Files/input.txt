@@ -1,0 +1,1 @@
+This is a sample text that we are going to read with FS and nodeJS.
